@@ -1,0 +1,145 @@
+.header {
+    background-color: #1F2937;
+    color: white;
+}
+
+.header p {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header-labels {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 75px;
+}
+
+.margin {
+    margin: 0 200px;
+}
+
+.info li {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration-line: underline;
+}
+
+.links {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content {
+    display: flex;
+    margin-bottom: 100px;
+    gap: 100px;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    border: 0px;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #275aaa;
+}
+
+.content p {
+    font-size: 15px;
+}
+
+.content h1 {
+    margin: 0 0 15px 0;
+}
+
+.qoute {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    padding: 100px 200px;  
+}
+
+.qoute p {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+    justify-self: center;
+    align-self: center;
+}
+
+.qoute h5 {
+    text-align: right;
+    font-size: 20px;
+}
+
+#fruit_header {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 200px;
+    margin-bottom: 75px; 
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ad {
+    background-color: #3882F6;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 75px 125px;
+    padding: 20px 75px;
+    border-radius: 10px;
+}
+
+.items img {
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.ad button {
+    border: 2px solid white;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+
+
+
+
+
